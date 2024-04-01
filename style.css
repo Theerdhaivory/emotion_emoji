@@ -1,0 +1,28 @@
+body
+{
+  color: black;
+  background: #fffcc0;
+  font-family: "Prata", serif;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #snap
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_1,#result_2
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
